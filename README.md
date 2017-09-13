@@ -46,15 +46,17 @@
 * Jack played, then king, or vice versa - player must say “joker”
 
 ## Rules: Games starting 9/7
-* Respect - ???
+* Jack, Queen, or King - Next player must play in 2 seconds or less
+* Player draws a card and plays that one immediately - Player must say "ez game"
 * Suit changes - Player must knock
   * Number of knocks is determined by how many suit changes in a row there are
 * Jack - Player must announce a suit and the next person must play that suit
-* Third card of a new suit played - Player must say "Three"
+* Third card of a new suit played - Player must say "three"
 * Third card of a new suit played - Skips 3 players
+* Player "two-it"'s - Player who was supposed to be next must say "rip"
 * 2, 3, 4 of hearts - Player must say "Angery"
-* Card played after a 7, excluding another 7 - Player must say "Lucky"
+* Card played after a 7, excluding another 7 - Player must say "lucky"
 * Player is penalized twice in one turn - Player must snap
-* Player plays a card when another player was about to - Player must say "Swish"
-* 3 (or more) face cards in a row are played - Player must say "Sea Cucumber"
-*
+* Player plays a card when another player was about to - Player must say "swish"
+* 3 (or more) face cards in a row are played - Player must say "sea cucumber"
+* 6 - Player must roll the dice, and that many people are skipped
