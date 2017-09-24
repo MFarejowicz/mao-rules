@@ -9,7 +9,7 @@
 * Game start - one player flips over the top card and says “the game of mao has begun”
 * Players take turns
 * Players may play any card from their hand that is of the same suit or same value
-* Play goes clockwise, unless switched
+* Play goes counterclockwise, unless switched
 * If a player has no playable card, they must draw from the deck
 * Players issue penalties to other players if a rule is not followed
 * Players may issue a penalty if a player takes too long or doesn't recognize their turn
@@ -60,3 +60,26 @@
 * Player plays a card when another player was about to - player must say "swish"
 * 3 (or more) face cards in a row are played - player must say "sea cucumber"
 * 6 - player must roll the dice, and that many people are skipped
+
+## Rules: Games starting 9/17
+* Player says 2 statements after playing a card -
+  * Player must say "black" if they played a red card
+  * Player must say "red" if they played a black card
+* Red, then black, then red card played - Player must dab and say "Pipa pipa pipa"
+* Jack, Queen, or King - next player must hit the previous card before playing theirs
+* 3 strictly increasing/decreasing cards played (with ace low):
+  * Player must say "music" with pitch getting higher if increasing
+  * Player must say "music" with pitch getting lower if decreasing
+* Player switches suit to diamonds - player must say "oof", next player must say "ouch", and next player must say "owie"
+* 6 then 6, 6 then 9, 9 then 6, or 9 then 9 played - player must say "nice"
+* Ace, 4, 9 - player must say "circle"
+* Card with value 1 above previous played (with loops) - player must say "upvote"
+* 3 - Player must name a card value (defined as calling a "cockblock")
+  * Next player may not play the named card
+  * If they do, they are penalized with the rule call: "cockblocked"
+* 10 - Must be played either to left or right instead of on the pile
+  * If the 10 is red, must be played to player next in opposite of current order. Playing this also reverses the order.
+  * If the 10 is black, must be played to player next in current order.
+
+
+## Rules: Games starting ???
