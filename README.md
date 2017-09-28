@@ -82,4 +82,23 @@
   * If the 10 is black, must be played to player next in current order.
 
 
-## Rules: Games starting ???
+## Rules: Games starting 9/25
+* Playing an exact copy of the previous card (but not a "two-it") - player says "me too thanks"
+* Playing a card with the same value as starting card - player must say the card value
+  * On a reshuffle, the card that activates this switches to the card on top after the shuffling
+* Any player touches the played card stack in the middle - forces "without any milk" to be said with next card played
+* Playing any card where past 2 cards add up to 10 - player must recite any haiku
+* 3 - player must say "green"
+* 4 - player must say "blue"
+* Playing a card that completes a pattern of value, decreasing value, increasing value - player must acknowledge Chicago (point to it on board)
+* Playing any card that sandwiches a Jack with non-Jacks- player must say "I'm sorry, Jack"
+* Queen or King - player must kneel on the card (bend fingers onto it)
+  * This establishes an "emperor", at which point you cannot play a card of the same value but different suit until a full rotation of players passes.
+  * e.g. A Queen of Spades is played, and the player kneels. The Queen of Clubs, Diamonds, and Hearts cannot be played until a round of plays passes.
+* Card played perpendicular to previous card - player must say "jenga"
+* Playing the a copy of any red card ("two-it" or normal) - player must "take a selfie" (make a clicking noise)
+* 6 or 4 - player can play a 4 of any suit on a 6 while saying "going to chicago"
+  * A player cannot play a 4 on a 4 or a 6 on a 6
+* Playing a card that completes a pattern of 3 strictly increasing cards - player must declare a step size, and then from then on play steps by this amount from turn to turn, instead of by 1
+* Playing any card after a 10 - player must say "{card value * 10} percent chub"
+* Playing a card with a left hand - player must say "right hand rule"
