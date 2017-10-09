@@ -65,7 +65,7 @@
 * Player says 2 statements after playing a card -
   * Player must say "black" if they played a red card
   * Player must say "red" if they played a black card
-* Red, then black, then red card played - Player must dab and say "Pipa pipa pipa"
+* Red, then black, then red card played - Player must dab and say "Paipo paipo paipo"
 * Jack, Queen, or King - next player must hit the previous card before playing theirs
 * 3 strictly increasing/decreasing cards played (with ace low):
   * Player must say "music" with pitch getting higher if increasing
@@ -119,7 +119,7 @@
   * Switching to a suit other than diamond - player must say "break" and all players stop counting down.
 * A switch of suit that also changes colors - player must cluck like a chicken
 * Joker - this can be played anytime, player must laugh when it is played, it skips a number of players corresponding to how many Jokers have been played so far, and a player can play any card after a joker.
-* Odd valued heart - the bottom of the hearts on the card will point to someone, this player must say anything involving "senpai"; if the bottom of the heart points to the player who played the card, they must say anything involving "cohai"
+* Odd valued heart - the bottom of the hearts on the card will point to someone, this player must say anything involving "senpai"; if the bottom of the heart points to the player who played the card, they must say anything involving "kohai"
 * 9 after a King - player must make a dog noise
 * Spade after at least 2 hearts - player must say "shot through the heart"
 * Player completes the pattern A, B, A, C (in terms of card values) - player must say "boba"
