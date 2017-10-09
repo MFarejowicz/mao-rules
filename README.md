@@ -102,3 +102,26 @@
 * Playing a card that completes a pattern of 3 strictly increasing cards - player must declare a step size, and then from then on play steps by this amount from turn to turn, instead of by 1
 * Playing any card after a 10 - player must say "{card value * 10} percent chub"
 * Playing a card with a left hand - player must say "right hand rule"
+
+## Rules: Games starting 10/6
+* 7, 9, 10 - player must say "nani"
+* 6, 8, 9, 10, Q after a 6, 8, 9, 10, or Q - player must say "oh no"
+* 3 card straight - player must say "up, up, and away"
+* Absolute value of difference in card values is >= 8 - player must say "going to Malaysia"
+  * In other words, (A or 2 to 10, J, Q, K) or vice versa.
+* Player completes a blackjack (A and 10, J, Q, K) - player must say "bluejay"
+* Drawing after the previous player drew as well - player must say "same"
+* 3 - player must swap a card from their hand with the top one on the deck
+* Value of card played matches number of letters in player's name - player must say "me irl"
+* Player after someone who said "me irl" also meets the requirements to say "me irl" - player should say "2 me irl 4 me irl" instead
+  * If the next person should as well, they should say "2 me irl 4 2 me irl 4 me irl" and so on
+* Switch to a diamond - player says the card value, and next players continue counting down
+  * Switching to a suit other than diamond - player must say "break" and all players stop counting down.
+* A switch of suit that also changes colors - player must cluck like a chicken
+* Joker - this can be played anytime, player must laugh when it is played, it skips a number of players corresponding to how many Jokers have been played so far, and a player can play any card after a joker.
+* Odd valued heart - the bottom of the hearts on the card will point to someone, this player must say anything involving "senpai"; if the bottom of the heart points to the player who played the card, they must say anything involving "cohai"
+* 9 after a King - player must make a dog noise
+* Spade after at least 2 hearts - player must say "shot through the heart"
+* Player completes the pattern A, B, A, C (in terms of card values) - player must say "boba"
+* Queen - player must say "I'm a believer"
+* (4, 7, ...) of clubs - player must say "always lucky"
