@@ -1,0 +1,25 @@
+{
+  "name": "mao-rules",
+  "version": "0.1.0",
+  "description": "A record of Mao rules for 2E",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MFarejowicz/mao-rules.git"
+  },
+  "keywords": [
+    "mao",
+    "game",
+    "rules",
+    "documentation"
+  ],
+  "author": "Matt Farejowicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MFarejowicz/mao-rules/issues"
+  },
+  "homepage": "https://github.com/MFarejowicz/mao-rules#readme",
+}
