@@ -23,9 +23,9 @@
 * Face card - all players say “all hail”
 * Spade - player must say card value + “of spades”
 * “Point of order” - all players drop their cards
-* Players may speak freely
-* Players may not touch their cards
-* May only be ended when the player who called the PoO says “end point of order”
+  * Players may speak freely
+  * Players may not touch their cards
+  * May only be ended when the player who called the PoO says “end point of order”
 * One card left - player must say ”mao”
 * Playing last card - player must say “the game of mao has now ended”
 
@@ -43,7 +43,7 @@
 * Ace, 5,10 - player must say “Rome wasn't built in a day”
 * Player “two-it”’s with an even value card (no face cards) - player must say “shannic speed”
 * Queen - skips (floor(n/2)-1) players and reverse order
-* Jack played, then king, or vice versa - player must say “joker”
+* King after Jack, or Jack after King - player must say “joker”
 
 ## Rules: Games starting 9/7
 * Jack, Queen, or King - next player must play in 2 seconds or less
@@ -116,12 +116,61 @@
 * Player after someone who said "me irl" also meets the requirements to say "me irl" - player should say "2 me irl 4 me irl" instead
   * If the next person should as well, they should say "2 me irl 4 2 me irl 4 me irl" and so on
 * Switch to a diamond - player says the card value, and next players continue counting down
-  * Switching to a suit other than diamond - player must say "break" and all players stop counting down.
+  * Switching to a suit other than diamond - player must say "break" and all players stop counting down
 * A switch of suit that also changes colors - player must cluck like a chicken
-* Joker - this can be played anytime, player must laugh when it is played, it skips a number of players corresponding to how many Jokers have been played so far, and a player can play any card after a joker.
+* Joker - this can be played anytime, player must laugh when it is played, it skips a number of players corresponding to how many Jokers have been played so far, and a player can play any card after a joker
 * Odd valued heart - the bottom of the hearts on the card will point to someone, this player must say anything involving "senpai"; if the bottom of the heart points to the player who played the card, they must say anything involving "kouhai"
 * 9 after a King - player must make a dog noise
 * Spade after at least 2 hearts - player must say "shot through the heart"
 * Player completes the pattern A, B, A, C (in terms of card values) - player must say "boba"
 * Queen - player must say "I'm a believer"
-* (4, 7, ...) of clubs - player must say "always lucky"
+* 4 or 8 of clubs - player must say "always lucky"
+
+## Rules: Games starting 10/15
+* 7 - player must say "do", and next players continue with "re", "mi", and so on
+  * This chain stops on another 7 or when players reach "do" again
+* King after Jack, or Jack after King - player must make a jacking off motion
+* Starting turn with 2 cards in hand - player must present a card and ask for a card matching any specification
+  * Others can present their cards and then a trade occurs.
+  * If no card is presented within 10 seconds, original player must "go fish" from the drawing pile
+* Player plays a card when another player was about to - player must say "skrt"
+* Any card > 3 after a 3 - player must say "hartz"
+* Player changes suit and needs to say another thing - player must say "announcement first"
+* Even-numbered card played onto a different even-numbered card - player must say "north" if direction is CCW, "south" if direction is CW
+* Card with value 3 greater than previous card - player must "hunt" and flip a card from the draw pile onto the play pile
+* Playing a non-face card after a face card - player must play next card with both hands
+* Red, black, red or black, red, black - player must say "you hate to see that happen"
+* 5, 3, 4, 5, any card - player must play a 1-stock in smash with another player, loser must draw a card
+* Diamond after a spade - player must ask a question
+  * Next player must answer the question with any answer
+* Players cannot play a card with their elbows on the table - associated penalty is "lack of chivalry"
+
+## Worst of: Game played 10/18
+* Queen - skips (floor(n/2)-1) players and reverse order
+* Any player touches the played card stack in the middle - forces "without any milk" to be said with next card played
+* Player says 2 statements after playing a card -
+  * Player must say "black" if they played a red card
+  * Player must say "red" if they played a black card
+* Odd valued heart - the bottom of the hearts on the card will point to someone, this player must say anything involving "senpai"; if the bottom of the heart points to the player who played the card, they must say anything involving "kouhai"
+* 3 (or more) face cards in a row are played - player must say "sea cucumber"
+* Ace - players must vote on a player, highest voted player must then play an Ace or draw a card and say "Tanner confirmed"
+
+## Best of: Game played 10/18
+* Third card of a new suit played - player must say "three"
+* Third card of a new suit played - skips 3 players
+* Player is not penalized because next player goes too quickly - player must say “teamwork”
+* Player points (with a finger or two) - player must say “yeah boii”
+* Jack, Queen, or King - next player must hit the previous card before playing theirs
+* Playing a card that completes a pattern of value, decreasing value, increasing value - player must acknowledge Chicago (point to it on board)
+* Player draws a card and plays that one immediately - player must say "ez game"
+* Red, black, red or black, red, black - player must say "you hate to see that happen"
+* Playing any card after a 10 - player must say "{card value * 10} percent chub"
+* 3 - Player must name a card value (defined as calling a "cockblock")
+  * Next player may not play the named card
+  * If they do, they are penalized with the rule call: "cockblocked"
+* Player draws a card - player must say “never lucky”
+* Value of card played matches number of letters in player's name - player must say "me irl"
+* Playing a non-face card after a face card - player must play next card with both hands
+
+## Rules: Games starting 10/31
+* Boolin'
