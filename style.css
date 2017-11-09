@@ -1,0 +1,21 @@
+html, body {
+  margin-left: 10px;
+  background-color: #efefef;
+  color: #565656;
+  font-family: "Oswald"
+}
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+  color: #f17e33;
+  font-family: "Hind";
+}
+h1 {
+  font-size: 60px;
+}
+p {
+  margin: 0 0 20px 0;
+}
+ul {
+  margin-top: 0px;
+}
