@@ -173,4 +173,19 @@
 * Playing a non-face card after a face card - player must play next card with both hands
 
 ## Rules: Games starting 10/31
-* Boolin'
+* 3 even cards in a row - player must say "good"
+* 3 odd cards in a row - player must say "bad"
+* 4 even cards in a row - player must say "better" (but not say "good")
+* 4 odd cards in a row - player must say "worse" (but not say "bad")
+* 3 - player must say "sideways river"
+* Player changes color - players must say "c________ parmesan"
+* King after Queen or Queen after King - player must tap next player to play Rock, Paper, Scissors; loser draws a card
+* Player says a word with a "b" on their turn - player must say "boolin'"
+* Player breaks a 3 in a row streak - player must say "TL;DR"
+* 6 - player must say "he/she dead" and next player must say "I am a male/female" respectively
+* 8 - player must declare "the king is dead" and other players must repeat in a two direction cascade
+* Player says any phrase that affects game flow containing a word beginning with "e" - player must say "forward aerial"
+* Player needs to say a phrase on a spade that is not "x of spades" - player must say "happyou" before saying phrases
+* Ace - exactly min(num_players, 6) must touch the ace played or everyone is penalized for "failure to play ouija"
+
+## Rules: Games starting 11/10
