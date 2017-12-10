@@ -188,4 +188,41 @@
 * Player needs to say a phrase on a spade that is not "x of spades" - player must say "happyou" before saying phrases
 * Ace - exactly min(num_players, 6) must touch the ace played or everyone is penalized for "failure to play ouija"
 
-## Rules: Games starting 11/10
+## Rules: Games starting 11/27
+* Suit change - Player must say a 4 syllable word/phrase as well as "on a stick"
+* Card played with value +/- previous card - Player must place hand down and spin it around
+* 6 - Player must say "Matt is dead"; skip 2 players
+* Change of parity - Player levels up (tally on paper)
+  * J - Player must challenge next player to a dual, player with lower level loses and draws a card
+* K - Player must challenge next player to "War" - players show their highest value card, smaller card loses and that player draws a card
+* Two parity changes in a row (with face cards even, Ace odd) - Player must laugh
+* Two cards played that skip or redirect player flow - Player must name an animal
+* BS implemented, max of one usage per game
+  * Player can play 1-4 cards face down, and must name the value
+  * Other players can call "BS", if player was truthful, the one who called out takes the cards and draws a card, if player was lying, they take the cards back and draw a card
+* Two 8's in a row - Player must say "lol boobies" or "kek boobies"
+* 8 after 5 - Player must say "I vote Bamo"
+* Player can call a vote by holding a spin up or spin down hand for 2 seconds
+  * Other players must vote (hold spin up or down) within 2 seconds, or are penalized
+
+## Rules: Games starting 12/8
+* Playing immediately after a "two-it" - Player must say "drift"
+* Player who plays a card that a player "two-it"'s onto - Player becomes a "lead"
+  * Next time it is that player's turn, they must say "lead"
+* 3 suit changes in a row - Player must say "supersonic"
+* Past 2 cards add to 4 - Player must say "that's numberwang"
+* Changing suit with a 4 - Player must say "let's rotate the board"
+* Playing a different card on 2 of the same card - Player must say "not drift"
+* Playing a 6 or a 7
+  * And then playing a card with a greater value - Player must say "unlimited power"
+  * And then playing a card with a lower value - Player must say "limited power"
+* 3, 4, 5 - Player must pay 1 peso (card from different deck treated as currency)
+* J, Q, K - Player must take 1 peso
+* 10 - Player is added to a persistent game list
+  * Any future 10 - That player must say "one of us"
+* Playing after a 9 then J or J then 9 - Player must not say anything on card play
+* Queen of Hearts after a {King of Hearts, Jack of Hearts, Queen of Clubs, Queen of Spades, or Queen of Diamonds} - Player must say "card deleted" and place a card from hand back into the deck.
+* 2 of the same face card - Player must name a suit and declare "a ward has been set"
+  * For one iteration of players, no one can play that suit
+* If a ward is declared, you can place you card face down to "hide" from the ward
+  * The player who called the ward can "detect" the card by turning the card face up.
