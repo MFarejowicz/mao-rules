@@ -226,3 +226,20 @@
   * For one iteration of players, no one can play that suit
 * If a ward is declared, you can place you card face down to "hide" from the ward
   * The player who called the ward can "detect" the card by turning the card face up.
+
+## Rules: Games starting 12/16
+* Ace - Players are stunned, and cannot two-it or change suit with the Ace
+* 2 - Player must say "ult", cannot be punished through next play
+* 3 - Player is "silenced" and cannot say anything, unless they played the 3 on a 3
+* 4 - Player must play card quickly and say "flash"
+* 6 - Next player is "charmed" and must align card with previous one
+* Red 8 - Player is "airborne" and must play the 8 with body parts off table
+* Black 8 - Player is "grounded" and must play the 8 with a body part on the table
+* 3 cards of the same number in a row - Player must place card down and compress card pile multiple times
+* 5 - Player must flick card and have it rotate and land on pile
+* Completion of consecutive cycle (i.e. play goes around the whole table with no skips or direction changes) - Player who started the cycle must say "aw geez"
+  * Next player must say "aw man", unless the next play isn't standard order
+* Red 6, 8, or 9 after a red 6, 8, or 9 - Player must say "communist propaganda"
+* Players must play aligned on top of a heart - or else "heart break" is called
+* Player is penalized - Next player must say "assertion", assertively
+* Player draws a card - Player must bring card to hand level before playing the card - or else "failure to load in" is called
