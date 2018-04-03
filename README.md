@@ -243,3 +243,33 @@
 * Players must play aligned on top of a heart - or else "heart break" is called
 * Player is penalized - Next player must say "assertion", assertively
 * Player draws a card - Player must bring card to hand level before playing the card - or else "failure to load in" is called
+
+## Rules: Games starting 3/6
+* Flag card played:
+  * If next card is greater - player must say "made friends"
+  * If next card is lesser - player must say "bamboozled"
+  * This card becomes the new flag card.
+  * First flag card is 7.
+* Playing any card after a 7 - player must say "wrecked"
+* Double time:
+  * Activated by 2 of the same red card - n = (2, 4, 6, 8)
+  * DT is active for the next n/2 turns
+  * On every turn during DT - add one to the existing number of skips (i.e. 0 if non-Ace, 1 if Ace)
+  * If DT is activated on DT, the old DT is overriden.
+* 2 parity switches - player must straighten the pile (doing "laundry")
+* Player penalized by a non-stock rule - player must add "pendejo" after "thanks"/"thank you"
+* Player is skipped (by non-to-it) - player must say "no mames"
+
+## Rules: Games starting 4/28
+* Playing greater value face card on a face card - player must drop card to play it
+* Playing a 2 - player must say how many red back cards they have + " cans"
+* Player switches to black suit after 3 red cards - player must tell a story with the number of words equal to the value of the card played
+* Playing a Jack -
+  * If the card has an orange back - player must say "I have orange juice"
+  * If the card has a blue back - player must say "I do not have orange juice"
+* Playing a blue back card after an "orange juice" call - player must apologize for their disgusting combo
+* Playing an 8 - player must deliver an insult with "Jessica" in it
+* 2 red 6's in a row - player must put the bottom card of the play pile on top
+* Playing a 5 - player must shake someone's hand (with the exception of the player right before them) and it becomes that player's turn
+* Playing a card whose value equals the number of cards in hand - player must say the card value
+* Playing a Jack or a King - player must say "bois located at " + some clock direction or "everywhere"
